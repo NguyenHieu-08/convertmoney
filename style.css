@@ -1,0 +1,24 @@
+input, select, button {
+    border-radius: 3px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#fromCurrent, #toCurrent{
+    width: 100px;
+}
+
+#money {
+    width: 180px;
+}
+
+button {
+    background-color: lightslategray;
+    color: white;
+    border-color: lightblue;
+}
+
+#result {
+    font-size: 20px;
+    margin-left: 20px;
+}
